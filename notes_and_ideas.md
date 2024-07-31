@@ -1,4 +1,4 @@
-#Ideas
+# Ideas
 - DC bus voltage of 48V
 - System design according to DIN 41494
 - Output modules with approx. 300 W
